@@ -1,3 +1,3 @@
-# Optimality and Renormalization imply Statistical Laws
+# Benford's Law from Turing Ensembles and Integer Partitions 
 
-Auxhiliary code (Jupyter notebook) for arXiv:2502.16314
+Auxiliary code (Jupyter notebook) for arXiv:2502.16314
